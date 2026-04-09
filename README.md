@@ -1,0 +1,1 @@
+I was learning how to separate functions to write projects cleanly, I also pushed myself to learn to make .h's and .cpp's outside of main to clean the project up more.
